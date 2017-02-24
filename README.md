@@ -1,6 +1,6 @@
 # hello-world
-Pierwszy test Slawk - Hello World
-Hello i hello.
+Hello World!
+Hello, hello!
 Nothing interesting. Just tutorial.
 
 GitHub Guides
